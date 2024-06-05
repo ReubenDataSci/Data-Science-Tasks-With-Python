@@ -1,2 +1,2 @@
-# Data-Science-Tasks-With-Python
+# Sales Analysis Using Pandas
 Set of data science tasks completed using the Python Pandas Library
