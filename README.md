@@ -1,5 +1,4 @@
 # Sales Analysis Using Pandas
-Set of data science tasks completed using the Python Pandas Library
 
 ### Project Overview
 This data analysis project aims to provide insigts into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, as well as gain deeper understanding of the company's performance.
@@ -15,3 +14,8 @@ In the initial data preparation phase, I performed the followings tasks:
 1. Data loading and inspection
 2. Handling missing values
 3. Data cleaning and formatting
+
+## Exploratory Data Analysis (EDA)
+EDA invovled exploring the sales data to answer key questions, such as:
+
+ 
