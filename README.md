@@ -5,7 +5,7 @@ This is a set of real world data science tasks completed using the Python Pandas
 We use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 ## Setup 
-To access all of the files I recommend you fork this repo and then clone it locally.
+To access all of the files I recommend you check this repo and then clone it locally.
 
 ### Data Sources
 Sales Data: The primary datasets used for this analysis is the "sales_data_csv" file, containing detailed information about eacg sales made by the company for the 12 months of the year 2019.
