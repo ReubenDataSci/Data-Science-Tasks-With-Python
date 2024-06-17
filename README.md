@@ -12,8 +12,8 @@ Sales Data: The primary datasets used for this analysis is the "sales_data_csv" 
 
 ### Tools
 - Python [Download here](https://www.python.org/downloads/release/python-3123/)
-Installing Jupyter Notebook: [Download here](https://jupyter.readthedocs.io/en/latest/install.html)
-Installing Pandas library:  [Download here](https://pandas.pydata.org/pandas-docs/stable/install.html) 
+- Installing Jupyter Notebook: [Download here](https://jupyter.readthedocs.io/en/latest/install.html)
+- Installing Pandas library:  [Download here](https://pandas.pydata.org/pandas-docs/stable/install.html) 
 ### Data Cleaning/Preparation
 We start by cleaning our data. Tasks during this section include:
 
